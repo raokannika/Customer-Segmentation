@@ -1,18 +1,18 @@
-# Virtual environment
+
 venv/
 
-# IDE / Editor files
+
 .idea/
 .vscode/
 
-# Python cache
+
 __pycache__/
 *.pyc
 *.pyo
 
-# Jupyter notebook checkpoints
+
 .ipynb_checkpoints/
 
-# OS files
+
 .DS_Store
 Thumbs.db
